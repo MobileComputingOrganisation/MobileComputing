@@ -1,0 +1,304 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		BFF787DA1DB3BC8A00017F64 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF787D91DB3BC8A00017F64 /* AppDelegate.swift */; };
+		BFF787DC1DB3BC8A00017F64 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF787DB1DB3BC8A00017F64 /* ViewController.swift */; };
+		BFF787DF1DB3BC8A00017F64 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFF787DD1DB3BC8A00017F64 /* Main.storyboard */; };
+		BFF787E11DB3BC8A00017F64 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFF787E01DB3BC8A00017F64 /* Assets.xcassets */; };
+		BFF787E41DB3BC8A00017F64 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFF787E21DB3BC8A00017F64 /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		BFF787D61DB3BC8A00017F64 /* Preschool Children Addition Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Preschool Children Addition Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BFF787D91DB3BC8A00017F64 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		BFF787DB1DB3BC8A00017F64 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		BFF787DE1DB3BC8A00017F64 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		BFF787E01DB3BC8A00017F64 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		BFF787E31DB3BC8A00017F64 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		BFF787E51DB3BC8A00017F64 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		BFF787D31DB3BC8A00017F64 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		BFF787CD1DB3BC8A00017F64 = {
+			isa = PBXGroup;
+			children = (
+				BFF787D81DB3BC8A00017F64 /* Preschool Children Addition Calculator */,
+				BFF787D71DB3BC8A00017F64 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		BFF787D71DB3BC8A00017F64 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BFF787D61DB3BC8A00017F64 /* Preschool Children Addition Calculator.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BFF787D81DB3BC8A00017F64 /* Preschool Children Addition Calculator */ = {
+			isa = PBXGroup;
+			children = (
+				BFF787D91DB3BC8A00017F64 /* AppDelegate.swift */,
+				BFF787DB1DB3BC8A00017F64 /* ViewController.swift */,
+				BFF787DD1DB3BC8A00017F64 /* Main.storyboard */,
+				BFF787E01DB3BC8A00017F64 /* Assets.xcassets */,
+				BFF787E21DB3BC8A00017F64 /* LaunchScreen.storyboard */,
+				BFF787E51DB3BC8A00017F64 /* Info.plist */,
+			);
+			path = "Preschool Children Addition Calculator";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		BFF787D51DB3BC8A00017F64 /* Preschool Children Addition Calculator */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BFF787E81DB3BC8A00017F64 /* Build configuration list for PBXNativeTarget "Preschool Children Addition Calculator" */;
+			buildPhases = (
+				BFF787D21DB3BC8A00017F64 /* Sources */,
+				BFF787D31DB3BC8A00017F64 /* Frameworks */,
+				BFF787D41DB3BC8A00017F64 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Preschool Children Addition Calculator";
+			productName = "Preschool Children Addition Calculator";
+			productReference = BFF787D61DB3BC8A00017F64 /* Preschool Children Addition Calculator.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BFF787CE1DB3BC8A00017F64 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0800;
+				LastUpgradeCheck = 0800;
+				ORGANIZATIONNAME = "Mario Zammit";
+				TargetAttributes = {
+					BFF787D51DB3BC8A00017F64 = {
+						CreatedOnToolsVersion = 8.0;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = BFF787D11DB3BC8A00017F64 /* Build configuration list for PBXProject "Preschool Children Addition Calculator" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = BFF787CD1DB3BC8A00017F64;
+			productRefGroup = BFF787D71DB3BC8A00017F64 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				BFF787D51DB3BC8A00017F64 /* Preschool Children Addition Calculator */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		BFF787D41DB3BC8A00017F64 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BFF787E41DB3BC8A00017F64 /* LaunchScreen.storyboard in Resources */,
+				BFF787E11DB3BC8A00017F64 /* Assets.xcassets in Resources */,
+				BFF787DF1DB3BC8A00017F64 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		BFF787D21DB3BC8A00017F64 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BFF787DC1DB3BC8A00017F64 /* ViewController.swift in Sources */,
+				BFF787DA1DB3BC8A00017F64 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		BFF787DD1DB3BC8A00017F64 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BFF787DE1DB3BC8A00017F64 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		BFF787E21DB3BC8A00017F64 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BFF787E31DB3BC8A00017F64 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		BFF787E61DB3BC8A00017F64 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		BFF787E71DB3BC8A00017F64 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		BFF787E91DB3BC8A00017F64 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Preschool Children Addition Calculator/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Home.Preschool-Children-Addition-Calculator";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		BFF787EA1DB3BC8A00017F64 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Preschool Children Addition Calculator/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Home.Preschool-Children-Addition-Calculator";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BFF787D11DB3BC8A00017F64 /* Build configuration list for PBXProject "Preschool Children Addition Calculator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BFF787E61DB3BC8A00017F64 /* Debug */,
+				BFF787E71DB3BC8A00017F64 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BFF787E81DB3BC8A00017F64 /* Build configuration list for PBXNativeTarget "Preschool Children Addition Calculator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BFF787E91DB3BC8A00017F64 /* Debug */,
+				BFF787EA1DB3BC8A00017F64 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BFF787CE1DB3BC8A00017F64 /* Project object */;
+}
