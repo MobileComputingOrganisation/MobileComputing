@@ -12,6 +12,21 @@
 		BFF787DF1DB3BC8A00017F64 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFF787DD1DB3BC8A00017F64 /* Main.storyboard */; };
 		BFF787E11DB3BC8A00017F64 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFF787E01DB3BC8A00017F64 /* Assets.xcassets */; };
 		BFF787E41DB3BC8A00017F64 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFF787E21DB3BC8A00017F64 /* LaunchScreen.storyboard */; };
+		BFF787FC1DB3C04E00017F64 /* apple.png in Resources */ = {isa = PBXBuildFile; fileRef = BFF787ED1DB3C04E00017F64 /* apple.png */; };
+		BFF787FD1DB3C04E00017F64 /* number0.png in Resources */ = {isa = PBXBuildFile; fileRef = BFF787EE1DB3C04E00017F64 /* number0.png */; };
+		BFF787FE1DB3C04E00017F64 /* number1.png in Resources */ = {isa = PBXBuildFile; fileRef = BFF787EF1DB3C04E00017F64 /* number1.png */; };
+		BFF787FF1DB3C04E00017F64 /* number2.png in Resources */ = {isa = PBXBuildFile; fileRef = BFF787F01DB3C04E00017F64 /* number2.png */; };
+		BFF788001DB3C04E00017F64 /* number3.png in Resources */ = {isa = PBXBuildFile; fileRef = BFF787F11DB3C04E00017F64 /* number3.png */; };
+		BFF788011DB3C04E00017F64 /* number4.png in Resources */ = {isa = PBXBuildFile; fileRef = BFF787F21DB3C04E00017F64 /* number4.png */; };
+		BFF788021DB3C04E00017F64 /* number5.png in Resources */ = {isa = PBXBuildFile; fileRef = BFF787F31DB3C04E00017F64 /* number5.png */; };
+		BFF788031DB3C04E00017F64 /* number6.png in Resources */ = {isa = PBXBuildFile; fileRef = BFF787F41DB3C04E00017F64 /* number6.png */; };
+		BFF788041DB3C04E00017F64 /* number7.png in Resources */ = {isa = PBXBuildFile; fileRef = BFF787F51DB3C04E00017F64 /* number7.png */; };
+		BFF788051DB3C04E00017F64 /* number8.png in Resources */ = {isa = PBXBuildFile; fileRef = BFF787F61DB3C04E00017F64 /* number8.png */; };
+		BFF788061DB3C04E00017F64 /* number9.png in Resources */ = {isa = PBXBuildFile; fileRef = BFF787F71DB3C04E00017F64 /* number9.png */; };
+		BFF788071DB3C04E00017F64 /* plate_white.png in Resources */ = {isa = PBXBuildFile; fileRef = BFF787F81DB3C04E00017F64 /* plate_white.png */; };
+		BFF788081DB3C04E00017F64 /* play_again.png in Resources */ = {isa = PBXBuildFile; fileRef = BFF787F91DB3C04E00017F64 /* play_again.png */; };
+		BFF788091DB3C04E00017F64 /* star_kids.png in Resources */ = {isa = PBXBuildFile; fileRef = BFF787FA1DB3C04E00017F64 /* star_kids.png */; };
+		BFF7880A1DB3C04E00017F64 /* thumbs_up.png in Resources */ = {isa = PBXBuildFile; fileRef = BFF787FB1DB3C04E00017F64 /* thumbs_up.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +37,21 @@
 		BFF787E01DB3BC8A00017F64 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BFF787E31DB3BC8A00017F64 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BFF787E51DB3BC8A00017F64 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BFF787ED1DB3C04E00017F64 /* apple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = apple.png; path = images/apple.png; sourceTree = "<group>"; };
+		BFF787EE1DB3C04E00017F64 /* number0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = number0.png; path = images/number0.png; sourceTree = "<group>"; };
+		BFF787EF1DB3C04E00017F64 /* number1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = number1.png; path = images/number1.png; sourceTree = "<group>"; };
+		BFF787F01DB3C04E00017F64 /* number2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = number2.png; path = images/number2.png; sourceTree = "<group>"; };
+		BFF787F11DB3C04E00017F64 /* number3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = number3.png; path = images/number3.png; sourceTree = "<group>"; };
+		BFF787F21DB3C04E00017F64 /* number4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = number4.png; path = images/number4.png; sourceTree = "<group>"; };
+		BFF787F31DB3C04E00017F64 /* number5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = number5.png; path = images/number5.png; sourceTree = "<group>"; };
+		BFF787F41DB3C04E00017F64 /* number6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = number6.png; path = images/number6.png; sourceTree = "<group>"; };
+		BFF787F51DB3C04E00017F64 /* number7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = number7.png; path = images/number7.png; sourceTree = "<group>"; };
+		BFF787F61DB3C04E00017F64 /* number8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = number8.png; path = images/number8.png; sourceTree = "<group>"; };
+		BFF787F71DB3C04E00017F64 /* number9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = number9.png; path = images/number9.png; sourceTree = "<group>"; };
+		BFF787F81DB3C04E00017F64 /* plate_white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = plate_white.png; path = images/plate_white.png; sourceTree = "<group>"; };
+		BFF787F91DB3C04E00017F64 /* play_again.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = play_again.png; path = images/play_again.png; sourceTree = "<group>"; };
+		BFF787FA1DB3C04E00017F64 /* star_kids.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = star_kids.png; path = images/star_kids.png; sourceTree = "<group>"; };
+		BFF787FB1DB3C04E00017F64 /* thumbs_up.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = thumbs_up.png; path = images/thumbs_up.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,11 +87,34 @@
 				BFF787D91DB3BC8A00017F64 /* AppDelegate.swift */,
 				BFF787DB1DB3BC8A00017F64 /* ViewController.swift */,
 				BFF787DD1DB3BC8A00017F64 /* Main.storyboard */,
+				BFF7880B1DB3C05700017F64 /* Images */,
 				BFF787E01DB3BC8A00017F64 /* Assets.xcassets */,
 				BFF787E21DB3BC8A00017F64 /* LaunchScreen.storyboard */,
 				BFF787E51DB3BC8A00017F64 /* Info.plist */,
 			);
 			path = "Preschool Children Addition Calculator";
+			sourceTree = "<group>";
+		};
+		BFF7880B1DB3C05700017F64 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				BFF787ED1DB3C04E00017F64 /* apple.png */,
+				BFF787EE1DB3C04E00017F64 /* number0.png */,
+				BFF787EF1DB3C04E00017F64 /* number1.png */,
+				BFF787F01DB3C04E00017F64 /* number2.png */,
+				BFF787F11DB3C04E00017F64 /* number3.png */,
+				BFF787F21DB3C04E00017F64 /* number4.png */,
+				BFF787F31DB3C04E00017F64 /* number5.png */,
+				BFF787F41DB3C04E00017F64 /* number6.png */,
+				BFF787F51DB3C04E00017F64 /* number7.png */,
+				BFF787F61DB3C04E00017F64 /* number8.png */,
+				BFF787F71DB3C04E00017F64 /* number9.png */,
+				BFF787F81DB3C04E00017F64 /* plate_white.png */,
+				BFF787F91DB3C04E00017F64 /* play_again.png */,
+				BFF787FA1DB3C04E00017F64 /* star_kids.png */,
+				BFF787FB1DB3C04E00017F64 /* thumbs_up.png */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,9 +176,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BFF788021DB3C04E00017F64 /* number5.png in Resources */,
+				BFF787FF1DB3C04E00017F64 /* number2.png in Resources */,
+				BFF788041DB3C04E00017F64 /* number7.png in Resources */,
 				BFF787E41DB3BC8A00017F64 /* LaunchScreen.storyboard in Resources */,
+				BFF788011DB3C04E00017F64 /* number4.png in Resources */,
+				BFF788031DB3C04E00017F64 /* number6.png in Resources */,
+				BFF787FE1DB3C04E00017F64 /* number1.png in Resources */,
+				BFF788071DB3C04E00017F64 /* plate_white.png in Resources */,
+				BFF788061DB3C04E00017F64 /* number9.png in Resources */,
 				BFF787E11DB3BC8A00017F64 /* Assets.xcassets in Resources */,
+				BFF788051DB3C04E00017F64 /* number8.png in Resources */,
 				BFF787DF1DB3BC8A00017F64 /* Main.storyboard in Resources */,
+				BFF787FC1DB3C04E00017F64 /* apple.png in Resources */,
+				BFF787FD1DB3C04E00017F64 /* number0.png in Resources */,
+				BFF7880A1DB3C04E00017F64 /* thumbs_up.png in Resources */,
+				BFF788001DB3C04E00017F64 /* number3.png in Resources */,
+				BFF788091DB3C04E00017F64 /* star_kids.png in Resources */,
+				BFF788081DB3C04E00017F64 /* play_again.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
