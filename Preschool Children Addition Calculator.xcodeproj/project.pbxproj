@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BFF3394F1DB69F7B0007D45D /* DraggedImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF3394D1DB69EEA0007D45D /* DraggedImage.swift */; };
 		BFF787DA1DB3BC8A00017F64 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF787D91DB3BC8A00017F64 /* AppDelegate.swift */; };
 		BFF787DC1DB3BC8A00017F64 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF787DB1DB3BC8A00017F64 /* ViewController.swift */; };
 		BFF787DF1DB3BC8A00017F64 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFF787DD1DB3BC8A00017F64 /* Main.storyboard */; };
@@ -30,6 +31,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BFF3394D1DB69EEA0007D45D /* DraggedImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DraggedImage.swift; sourceTree = "<group>"; };
 		BFF787D61DB3BC8A00017F64 /* Preschool Children Addition Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Preschool Children Addition Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFF787D91DB3BC8A00017F64 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BFF787DB1DB3BC8A00017F64 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -87,6 +89,7 @@
 				BFF787D91DB3BC8A00017F64 /* AppDelegate.swift */,
 				BFF787DB1DB3BC8A00017F64 /* ViewController.swift */,
 				BFF787DD1DB3BC8A00017F64 /* Main.storyboard */,
+				BFF3394D1DB69EEA0007D45D /* DraggedImage.swift */,
 				BFF7880B1DB3C05700017F64 /* Images */,
 				BFF787E01DB3BC8A00017F64 /* Assets.xcassets */,
 				BFF787E21DB3BC8A00017F64 /* LaunchScreen.storyboard */,
@@ -205,6 +208,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BFF787DC1DB3BC8A00017F64 /* ViewController.swift in Sources */,
+				BFF3394F1DB69F7B0007D45D /* DraggedImage.swift in Sources */,
 				BFF787DA1DB3BC8A00017F64 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -365,6 +369,7 @@
 				BFF787EA1DB3BC8A00017F64 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
